@@ -57,8 +57,8 @@ Hardware – PCs, Cyclone II , USB flasher
 
 ```
 
-**Developed by: N.Lakshanya**
-**RegisterNumber: 212224230136**
+**Developed by: Ameen Basha A**
+**RegisterNumber: 212224220008**
 
 
 **RTL realization**
